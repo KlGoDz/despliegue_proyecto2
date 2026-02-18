@@ -56,7 +56,10 @@ body {
 
 .footer {
     text-align: center;
-    padding: 20px;
-    font-size: 0.9em;
-    background-color: #eaeaea;
+    padding: 40px 20px;
+    font-size: 0.85rem;
+    background-color: #1e293b;
+    color: #94a3b8;
+    margin-top: auto;
+    border-top: 4px solid #2563eb;
 }

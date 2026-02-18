@@ -34,7 +34,7 @@ body {
 }
 
 .navbar a:hover {
-    color: #1d4ed8; /* Azul más oscuro al pasar el ratón */
+    color: #1d4ed8;
     text-decoration: underline;
 }
 
